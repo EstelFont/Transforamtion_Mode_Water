@@ -4,10 +4,15 @@ This repository contains several notebooks to process and produce the figures fr
 
 ## Repository content and output for the different notebooks:
 00: Run the WMT algorithm to Argo Floats Climatology
+
 00: Run the WMT algorithm to the glider transects in sigma-spice and T-S space. Figure S2
+
 01: Figure 1 & S1
+
 02: Figure 2 & 3
+
 03: Figure 4
+
 04: Figure 5
 
 ## Data availability and supplementary software:
