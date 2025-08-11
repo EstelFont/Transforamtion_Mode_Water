@@ -1,4 +1,4 @@
-# Transforamtion_Mode_Water
+# Transformation_Mode_Water
 
 This repository contains several notebooks to process and produce the figures from Font et al. (in review) - Spatiotemporal scales of mode water transformation in the Sea of Oman in Ocean Sciences - EGU
 
